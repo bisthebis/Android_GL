@@ -1,0 +1,11 @@
+See file:///D:/AndroidStudioProjects/Hello_GL_clone/app/build/tmp/compileGl2jniX86DebugSharedLibraryGl2jniMainCpp/output.txt for all output for compileGl2jniX86DebugSharedLibraryGl2jniMainCpp.
+compiling gl_code.cpp successful.
+D:\AndroidStudioProjects\Hello_GL_clone\app\src\main\jni\gl_code.cpp:146:10: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+    LOGI(ss.str().c_str());
+         ^~~~~~~~~~~~~~~~
+D:\AndroidStudioProjects\Hello_GL_clone\app\src\main\jni\gl_code.cpp:41:66: note: expanded from macro 'LOGI'
+#define  LOGI(...)  __android_log_print(ANDROID_LOG_INFO,LOG_TAG,__VA_ARGS__)
+                                                                 ^
+1 warning generated.
+
+Finished compileGl2jniX86DebugSharedLibraryGl2jniMainCpp, see full log file:///D:/AndroidStudioProjects/Hello_GL_clone/app/build/tmp/compileGl2jniX86DebugSharedLibraryGl2jniMainCpp/output.txt.

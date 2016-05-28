@@ -1,0 +1,4 @@
+See file:///D:/AndroidStudioProjects/Hello_GL_clone/app/build/tmp/linkGl2jniX86DebugSharedLibrary/output.txt for all output for linkGl2jniX86DebugSharedLibrary.
+linking libgl2jni.so successful.
+
+Finished linkGl2jniX86DebugSharedLibrary, see full log file:///D:/AndroidStudioProjects/Hello_GL_clone/app/build/tmp/linkGl2jniX86DebugSharedLibrary/output.txt.
